@@ -625,10 +625,10 @@ Lava<y:LabelModel>
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="1">
             <y:GroupNode>
-              <y:Geometry height="228.00807416672433" width="257.9982765105426" x="1196.5596000000007" y="-308.107985625104"/>
+              <y:Geometry height="1360.2800741667245" width="1612.8458765105433" x="1196.5596000000007" y="-308.107985625104"/>
               <y:Fill color="#F5F5F5" transparent="false"/>
               <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
-              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="257.9982765105426" x="0.0" y="0.0">Bio Diesel</y:NodeLabel>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="1612.8458765105433" x="0.0" y="0.0">Bio Diesel</y:NodeLabel>
               <y:Shape type="roundrectangle"/>
               <y:State closed="false" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
               <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
@@ -638,7 +638,7 @@ Lava<y:LabelModel>
               <y:Geometry height="162.0" width="215.9648000000002" x="1196.5596000000007" y="-308.107985625104"/>
               <y:Fill color="#F5F5F5" transparent="false"/>
               <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
-              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="215.9648000000002" x="0.0" y="0.0">Folder 1</y:NodeLabel>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="215.9648000000002" x="0.0" y="0.0">Bio Diesel</y:NodeLabel>
               <y:Shape type="roundrectangle"/>
               <y:State closed="true" closedHeight="162.0" closedWidth="215.9648000000002" innerGraphDisplayEnabled="false"/>
               <y:Insets bottom="5" bottomF="5.0" left="5" leftF="5.0" right="5" rightF="5.0" top="5" topF="5.0"/>
@@ -651,7 +651,7 @@ Lava<y:LabelModel>
         <node id="n35::n0">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="78.63999999999987" width="109.32346281908985" x="1037.9596000000006" y="-259.53152078135395"/>
+              <y:Geometry height="78.63999999999987" width="109.32346281908985" x="1322.0072000000007" y="435.73695843729206"/>
               <y:Fill color="#FFCC00" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="103.375" x="2.9742314095449274" y="29.969414062499936">Bio for the Masses<y:LabelModel>
@@ -668,7 +668,7 @@ Lava<y:LabelModel>
         <node id="n35::n1">
           <data key="d6">
             <y:ImageNode>
-              <y:Geometry height="910.4" width="1131.2000000000005" x="1260.4830628190907" y="-665.4879999999999"/>
+              <y:Geometry height="910.4" width="1131.2000000000005" x="1544.5306628190908" y="29.780479218646065"/>
               <y:Fill color="#CCCCFF" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="563.6000000000004" y="453.2"/>
@@ -679,7 +679,7 @@ Lava<y:LabelModel>
         <node id="n35::n2">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="105.19999999999999" width="164.39999999999986" x="927.5120000000006" y="-476.8399999999998"/>
+              <y:Geometry height="105.19999999999999" width="164.39999999999986" x="1211.5596000000007" y="218.4284792186462"/>
               <y:Fill color="#FFCC00" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="142.732421875" x="10.833789062499932" y="43.24941406250002">Golden Fish (or coconut?)<y:LabelModel>
@@ -694,10 +694,9 @@ Lava<y:LabelModel>
           </data>
         </node>
         <node id="n35::n3">
-          <data key="d5"/>
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="78.63999999999987" width="444.0" x="1411.5" y="-866.0"/>
+              <y:Geometry height="78.63999999999987" width="444.0" x="1695.5476" y="-170.731520781354"/>
               <y:Fill color="#FFCC00" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="409.673828125" x="17.1630859375" y="29.969414062499936">https://discord.com/channels/181078474394566657/1215060063702614026<y:LabelModel>
@@ -712,10 +711,9 @@ Lava<y:LabelModel>
           </data>
         </node>
         <node id="n35::n4">
-          <data key="d5"/>
           <data key="d6">
             <y:GenericNode configuration="com.yworks.flowchart.start2">
-              <y:Geometry height="40.0" width="80.0" x="2169.5" y="-748.0"/>
+              <y:Geometry height="40.0" width="80.0" x="2453.5476" y="-52.73152078135399"/>
               <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="30.00390625" x="24.998046875" y="10.6494140625">XOR<y:LabelModel>
@@ -729,10 +727,9 @@ Lava<y:LabelModel>
           </data>
         </node>
         <node id="n35::n5">
-          <data key="d5"/>
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="70.0" width="453.0" x="1432.5" y="-966.0"/>
+              <y:Geometry height="70.0" width="453.0" x="1716.5476" y="-270.731520781354"/>
               <y:Fill color="#FFCC00" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="409.673828125" x="21.6630859375" y="25.6494140625">https://discord.com/channels/181078474394566657/1133479778419232859<y:LabelModel>
@@ -756,7 +753,7 @@ Lava<y:LabelModel>
             </y:PolyLineEdge>
           </data>
         </edge>
-        <edge id="n35::e1" source="n35::n2" target="n35::n1">
+        <edge id="n35::e1" source="n35::n1" target="n35::n4">
           <data key="d10">
             <y:PolyLineEdge>
               <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -766,8 +763,7 @@ Lava<y:LabelModel>
             </y:PolyLineEdge>
           </data>
         </edge>
-        <edge id="n35::e2" source="n35::n3" target="n35::n4">
-          <data key="d9"/>
+        <edge id="n35::e2" source="n35::n2" target="n35::n1">
           <data key="d10">
             <y:PolyLineEdge>
               <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -777,8 +773,7 @@ Lava<y:LabelModel>
             </y:PolyLineEdge>
           </data>
         </edge>
-        <edge id="n35::e3" source="n35::n1" target="n35::n4">
-          <data key="d9"/>
+        <edge id="n35::e3" source="n35::n3" target="n35::n4">
           <data key="d10">
             <y:PolyLineEdge>
               <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -789,7 +784,6 @@ Lava<y:LabelModel>
           </data>
         </edge>
         <edge id="n35::e4" source="n35::n5" target="n35::n4">
-          <data key="d9"/>
           <data key="d10">
             <y:PolyLineEdge>
               <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1164,7 +1158,7 @@ Lava<y:LabelModel>
     <edge id="e36" source="n35" target="n32">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="11.043282014543818" sy="41.58294152779345" tx="0.0" ty="0.0"/>
+          <y:Path sx="11.04328201454382" sy="41.58294152779345" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="false"/>
@@ -1174,7 +1168,7 @@ Lava<y:LabelModel>
     <edge id="e37" source="n35" target="n29">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="-11.374738268487006" sy="62.153881954728334" tx="0.0" ty="0.0"/>
+          <y:Path sx="-11.374738268486908" sy="62.15388195472832" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="dashed" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="48.103515625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="185.03125" x="-32.16657287663702" y="150.6000477721982">Placed in the same area
@@ -1194,7 +1188,7 @@ for bees.<y:LabelModel>
     <edge id="e38" source="n35" target="n13">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="-12.586523148650729" sy="25.126189186245618" tx="0.0" ty="0.0"/>
+          <y:Path sx="-12.586523148650713" sy="25.126189186245625" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="delta"/>
           <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" verticalTextPosition="bottom" visible="true" width="81.373046875" x="-189.16144347254863" y="292.49385287383507">Has byproduct<y:LabelModel>
