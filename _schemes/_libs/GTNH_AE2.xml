@@ -133,16 +133,31 @@
     "title": "Process(BlackBox)"
   },
   {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"Subnet\" style=\"swimlane;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fillStyle=solid;strokeWidth=1;fontSize=25;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=#AE4132;rounded=1;arcSize=27;glass=0;fillColor=#C2EBFF;gradientColor=none;swimlaneFillColor=none;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"2210\" height=\"1250\" as=\"geometry\"&gt;&lt;mxRectangle x=\"290\" y=\"2620\" width=\"100\" height=\"30\" as=\"alternateBounds\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
-    "w": 2210,
-    "h": 1250,
-    "aspect": "fixed"
-  },
-  {
     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"Subnet\" style=\"swimlane;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fillStyle=solid;strokeWidth=1;fontSize=25;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=#AE4132;rounded=1;arcSize=27;glass=0;fillColor=#C2EBFF;gradientColor=none;swimlaneFillColor=none;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"400\" height=\"340\" as=\"geometry\"&gt;&lt;mxRectangle x=\"290\" y=\"2620\" width=\"100\" height=\"30\" as=\"alternateBounds\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 400,
     "h": 340,
     "aspect": "fixed",
     "title": "Subnet"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"Quantum Ring\" style=\"shape=mxgraph.cisco.computers_and_peripherals.speaker;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"53\" height=\"94\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 53,
+    "h": 94,
+    "aspect": "fixed",
+    "title": "QuantumRing"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"Filling Cabinet\" style=\"shape=mxgraph.cisco.misc.breakout_box;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"90\" height=\"130\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 90,
+    "h": 130,
+    "aspect": "fixed",
+    "title": "FillingCabinet"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"shape=mxgraph.cisco.wireless.wireless_transport;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry y=\"9.094947017729282e-13\" width=\"77\" height=\"54\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 77,
+    "h": 54,
+    "aspect": "fixed",
+    "title": "Wireless"
   }
 ]</mxlibrary>
