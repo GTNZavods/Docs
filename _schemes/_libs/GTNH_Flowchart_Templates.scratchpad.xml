@@ -153,6 +153,20 @@
     "title": "Input to Buffer Manually"
   },
   {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"whiteSpace=wrap;html=1;strokeColor=#97D077;strokeWidth=4;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 50,
+    "h": 50,
+    "aspect": "fixed",
+    "title": "Transitory Slot"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"whiteSpace=wrap;html=1;strokeColor=#C3ABD0;strokeWidth=4;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 50,
+    "h": 50,
+    "aspect": "fixed",
+    "title": "Recycled Output Slot"
+  },
+  {
     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"Start Here\" style=\"shape=singleArrow;whiteSpace=wrap;html=1;fontSize=60;fontStyle=1;arrowWidth=0.4179566563467492;arrowSize=0.3152709359605914;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#ffffff;fillStyle=solid;fontColor=#000000;strokeColor=#000000;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"493\" height=\"323\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 493,
     "h": 323,
